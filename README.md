@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno 👋
 
-Meu nome é Bruno  Klein. Sou desenvolvedor backend em formação, estudando e construindo projetos com Java e Spring Boot.
+Meu nome é Bruno  Klein. Sou desenvolvedor backend em formação, com foco em Java e Spring Boot.
 
 ---
 
@@ -10,7 +10,7 @@ Sou formado no Curso Técnico em Informática pela Escola João XXIII, e atualme
 
 Venho desenvolvendo projetos próprios para praticar construção de APIs, integração com banco de dados e organização de código no backend.
 
-Tenho uma base forte em raciocínio lógico e resolução de problemas, o que  ajuda a modelar soluções eficientes e entender regras de negócio.
+Tenho uma base forte em raciocínio lógico e resolução de problemas, o que facilita a modelagem de soluções eficientes e o entendimento de regras de negócio.
 
 ---
 
