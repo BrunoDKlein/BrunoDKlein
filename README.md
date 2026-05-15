@@ -18,15 +18,23 @@ Tenho uma base forte em raciocínio lógico e resolução de problemas, o que fa
 
 * Java
 * Spring Boot
+* JWT
 * MySQL / PostgreSQL
 * Git e GitHub
 * Postman
+* Lombok
+* Hibernate
+* Maven
 
 ---
 
 ## Projetos em destaque
 
 Aqui estão alguns projetos que já desenvolvi no meu estudo:
+
+* **BlackJack 21**
+  Esse é um jogo que desenvolvi, baseado no famoso jogo de casino BlackJack. O jogo foi desenvolvido em Java + Spring Boot, possui autenticação JWT, arquitetura REST, integração com API externa, persistencia de dados no banco, envio de email personalizado e um frontend interativo e responsivo:
+  [Visite o repositório](https://github.com/BrunoDKlein/BlackJack)
 
 * **API de Gerenciamento de Criptomoedas**
   API REST para gerenciamento de ativos, com operações de cadastro, consulta, edição, exclusão e organização de dados:
